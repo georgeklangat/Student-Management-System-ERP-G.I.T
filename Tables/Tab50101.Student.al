@@ -13,7 +13,7 @@ table 50506 Student
 
         field(33; "No.Series"; Code[10])
         {
-            Caption = 'course Code';
+            Caption = 'Course Code';
             TableRelation = "No. Series";
 
         }
